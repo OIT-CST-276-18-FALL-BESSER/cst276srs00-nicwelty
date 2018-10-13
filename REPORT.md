@@ -1,7 +1,9 @@
 Name: <Your name here>
+WOOPER
 
 Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
 
 Notes: The more concise and detailed the notes, the better the grade.  
+Everything SHOULD be ok now.
 
 ###
